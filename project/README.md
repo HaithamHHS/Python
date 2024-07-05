@@ -10,7 +10,9 @@ The project contains the below principles :
 The Project contains 3 classes:
 
 APIFetcher Class >>>> which Fetch a specific GitHub "Username" files information Under repositories
+
 Repository Class >>> which Fetches and saves the repository information 
+
 FileManager Class >>> it is used to create and display the Information that was fetched from Github
 
 
